@@ -27,8 +27,8 @@
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
 <img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25px"/>
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
-<img alt="Web API FastAPI" src="https://img.shields.io/badge/API%20FrameWork-FastAPI-blue" height="25px"/>
-<img alt="PythonScrapy" src="https://img.shields.io/badge/Web%20Scrapping-Python%20Scrapy-green" height="25px"/>
+<img alt="Web API FastAPI" src="https://img.shields.io/badge/-FastAPI-blue" height="25px"/>
+<img alt="PythonScrapy" src="https://img.shields.io/badge/-Scrapy-orange" height="25px"/>
 <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"  height="25px"/>
 <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
 <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
