@@ -27,6 +27,8 @@
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
 <img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25px"/>
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
+<img alt="Web API FastAPI" src="https://img.shields.io/badge/API%20FrameWork-FastAPI-blue" height="25px"/>
+<img alt="PythonScrapy" src="https://img.shields.io/badge/Web%20Scrapping-Python%20Scrapy-green" height="25px"/>
 <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"  height="25px"/>
 <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
 <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
@@ -42,7 +44,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaantanu9&label=Profile%20views&color=0e75b6&style=flat-square" alt="shaantanu9" /> </p>
 <p> <img src="https://img.shields.io/github/followers/shaantanu9?style=social" alt="shaantanu9" /> </p>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people </b>so if you want to say hi, <b> I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love talking About Code and meeting with different people </b>so if you want to say hi, <b> I'll be happy more!</b> 😊</em>
 
 
 ## 📊 My GitHub Data:
