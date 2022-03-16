@@ -61,6 +61,7 @@
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=shaantanu9&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaantanu9&" alt="soumyajit" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaantanu9&" alt="shantanubombatkar" />
+  <img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaantanu9" alt="shantanu-bombatkar-language" >
 </div>
 
