@@ -53,7 +53,6 @@
 <a href="https://leetcode.com/shantanubombatkar/"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black?link=http://left&link=https://leetcode.com/shantanubombatkar/" height="35px"/></a>
 
 <a href="https://tailwindcomponents.com/u/shaantanu9"><img alt="TailwindComponent" src="https://img.shields.io/badge/-TailwindComponents-orange" height="35px"/></a>
-<a href="https://www.instagram.com/shodkk_shantanu/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white?link=http://left&link=https://www.instagram.com/shodkk_shantanu/" height="35px"/></a>
 <a href="https://dev.to/shaantanu9"><img alt="Dev" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white?link=http://left&link=https://dev.to/shaantanu9" height="35px"/></a>
 <a href="https://www.quora.com/profile/Shodkk"><img alt="Quora" src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white?link=http://left&link=https://www.quora.com/profile/Shodkk" height="35px"/></a>
 <a href="https://www.reddit.com/user/shodkkshantanu"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white?link=http://left&link=https://www.reddit.com/user/shodkkshantanu" height="35px"/></a>
